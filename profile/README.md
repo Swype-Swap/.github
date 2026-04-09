@@ -26,6 +26,26 @@ Public documentation:
 - Official public docs and trust materials: https://github.com/Swype-Swap/swype-public
 - Official press and media kit: https://github.com/Swype-Swap/swype-press
 - Official partner SDK: https://github.com/Swype-Swap/swype-partner-sdk
+- Developer hub: https://swypeswap.com/developers
+- API V2 OpenAPI spec: https://swypeswap.com/api/v2/openapi
+- API V2 Postman collection: https://swypeswap.com/api/v2/postman
+
+Public API V2 surface:
+
+- account snapshots and partner capabilities
+- asset and network catalog discovery
+- quotes and transaction creation
+- payment requests and creator-tip resources
+- webhook configuration and delivery history
+- widget, iframe, and partner integration guidance
+
+What is intentionally not published here:
+
+- routing heuristics
+- provider-ranking rules
+- private-route implementation detail
+- internal operational traces
+- confidential business logic
 
 Operational trust notes:
 

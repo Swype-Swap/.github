@@ -7,6 +7,7 @@ It contains:
 - organization profile content
 - security reporting guidance
 - support guidance
+- public API V2 links and developer entry points
 
 No confidential product code is included here.
 
